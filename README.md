@@ -10,7 +10,7 @@ I also like to play soccer with my brother, code on my computer, and sleep.
 ![](https://github-readme-stats.vercel.app/api?username=Ichiro)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ichiro)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichiro)
-![Description of GIF](https://github.com/Pope-Red-Cross/OldRedCrossWeb/blob/main/Untitled%20design.gif?raw=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ichiro)
 
