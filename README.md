@@ -1,20 +1,16 @@
 
 ![Description of GIF](https://github.com/Pope-Red-Cross/OldRedCrossWeb/blob/main/Heading.gif?raw=true)
 
-<span style="color:red">This text is red</span>
+Hello! My name is Ichiro Okochi, and I am a high school senior with a strong passion for computer science in STEM. My favorite hobby is to sleep.
 
-I'm a high school student<br>Working using python, java, HTML, etc.<br>
+I also like to play soccer with my brother, code on my computer, and sleep. 
 
-
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Description of GIF](https://github.com/Pope-Red-Cross/OldRedCrossWeb/blob/main/tumblr-mmt2d9yWt41rmxbpno1-400-unscreen.gif?raw=true)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ichiro)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ichiro)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichiro)
-
+![Description of GIF](https://github.com/Pope-Red-Cross/OldRedCrossWeb/blob/main/Untitled%20design.gif?raw=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ichiro)
 
