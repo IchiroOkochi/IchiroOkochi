@@ -112,6 +112,21 @@ I'm always open to thoughtful conversations — about engineering, projects, or 
 <br/>
 <br/>
 
+## Featured Project
+
+<p align="center">
+  <a href="https://github.com/IchiroOkochi/vaani-connect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IchiroOkochi&repo=vaani-connect&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IchiroOkochi&show_icons=true&theme=transparent&hide_border=true&border_radius=12&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroOkochi&layout=compact&theme=transparent&hide_border=true&border_radius=12&langs_count=8" />
+</p>
+
 <sub>Computer Engineering · Purdue University Indianapolis</sub>
 
 </div>
