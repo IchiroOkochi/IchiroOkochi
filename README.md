@@ -16,6 +16,8 @@
 
 </div>
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FIchiroOkochi&label=People+Visited+%28Today+%2F+Total%29&icon=github&color=%230d6efd&message=&style=social&tz=UTC)
+
 ---
 
 <br/>
